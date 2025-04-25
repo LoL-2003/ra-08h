@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "loramac.h": "c",
+        "commissioning.h": "c",
+        "stdio.h": "c",
+        "utilities.h": "c",
+        "stdint.h": "c",
+        "tremo_uart.h": "c",
+        "tremo_rcc.h": "c",
+        "tremo_adc.h": "c"
+    }
+}
